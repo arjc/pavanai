@@ -1,6 +1,6 @@
 # Pavanai - Multiboot ISO Loader
 
-![Pavanai title](https://github.com)
+![Pavanai title](https://github.com/arjc/pavanai/blob/main/images/title.png)
 
 A ventoy theme which will make your IT services unreplaceable... 
 
@@ -11,7 +11,7 @@ He also make sure to carry his petti (breifcase) to safekeep all your iso files.
 When anyone comes and tries to hack into this installation media he will take out his malapuram kathi, machine bomb and nadan bomb to commence action.
 Make sure that you seat him perfectly on a minimum 4gb pendrive so that pavanai can breath (He is a great man and admires luxory and spacious living.)
 
-![Pavanai cover](https://github.com)
+![Pavanai cover](https://github.com/arjc/pavanai/blob/main/images/cover.png)
 
 # Setup Guide
 
