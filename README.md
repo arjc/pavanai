@@ -21,7 +21,7 @@ Make sure that you seat him perfectly on a minimum 4gb pendrive so that pavanai 
 
 **Step 1**: Download and complete the ventoy setup as shown in the official [documentation](https://www.ventoy.net/en/doc_start.html)
 
-**Step 2**: Download the [official release](https://www.ventoy.net/en/doc_start.html) zip of Pavanai Ventoy Theme.
+**Step 2**: Download the [official release](https://github.com/arjc/pavanai/releases) zip of Pavanai Ventoy Theme.
 
 **Step 3**: Copy the `ventoy` folder directly to the root directory of ventoy. 
 
