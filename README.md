@@ -2,6 +2,8 @@
 
 ![Pavanai title](https://github.com/arjc/pavanai/blob/main/images/title.png)
 
+[click here](https://pavanai.arjc.me) to visit Pavanai's website
+
 A ventoy theme which will make your IT services unreplaceable... 
 
 Pavanai is reborn after becoming a shavam back in 87. He was killed by Dasan and his partner Vijayan.
